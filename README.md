@@ -1,6 +1,6 @@
 # Cloud-Based Browser with Hugging Face Uploader
 
-This Google Colab notebook provides a powerful, cloud-based workflow to download files from complex websites and upload them directly to the Hugging Face Hub.
+This Google Colab notebook provides a cloud-based workflow to download files from complex websites and upload them directly to the Hugging Face Hub.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ibnmrs/Chrome-Colab/blob/main/Chrome_Colab_2.ipynb)
 
