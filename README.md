@@ -10,8 +10,6 @@ This Google Colab notebook provides a cloud-based workflow to download files fro
 
 This project solves a common problem: downloading files from websites that do not offer a direct download link. Standard tools like `wget` or `curl` fail on sites that require you to click a button, log in, or execute JavaScript to start a download.
 
-A perfect example is downloading models from platforms like **Tensor.Art**, which use indirect links.
-
 The goal of this notebook is to provide a seamless **cloud-to-cloud workflow**:
 1.  Use a full-featured Google Chrome browser within Colab to download any file, no matter how complex the site.
 2.  Directly upload that file from the Colab instance to your Hugging Face Hub repository.
@@ -22,9 +20,7 @@ This method completely bypasses your local machine, saving your personal interne
 
 ## ⚠️ Security Warning
 
-While the Colab environment itself is secure, the browser session runs on a remote server. For your own security, **do not log into sensitive accounts** such as online banking, personal email, or social media through this browser.
-
-**Treat this environment as a public computer** used only for the purpose of downloading and transferring files.
+While the Colab environment itself is secure, the browser session runs on a remote server. For your own security, **do not log into sensitive accounts**.
 
 ---
 
